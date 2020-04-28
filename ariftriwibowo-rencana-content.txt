@@ -3,7 +3,10 @@ RENCANA CONTENT ARIF TRIWIBOWO
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Angular
+    ^ React
 - Fundamental  
 - PHP Frameworks
+    ^ Laravel
 - Interview
 - Vlogs
